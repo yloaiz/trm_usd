@@ -1,0 +1,8 @@
+.env
+
+venv/
+descargas/
+main.log
+__pycache__/
+*.egg-info/
+*.csv
