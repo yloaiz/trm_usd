@@ -86,7 +86,7 @@ def flujo_bucle_diario():
     while True:
         try:
             # Espera la hora programada (ej. 5:15 AM)
-            esperar_hora_proceso(12, 30)
+            esperar_hora_proceso(12, 33)
             
             ejecutar_con_reintentos()
             
